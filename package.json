@@ -1,0 +1,32 @@
+{
+  "name": "fallout-2077-theme",
+  "displayName": "fallout 2@77",
+  "description": "my cp2077 and fallout baby. Not the best looking but thats how i want",
+  "publisher": "anonV111",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anonV111/fallout-2-77-VSC-color-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "fallout 2@77",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fallout 2@77-color-theme.json"
+      },
+      {
+        "label": "fallout 2@77",
+        "uiTheme": "vs",
+        "path": "./themes/fallout 2@77-color-theme.json"
+      }
+    ]
+  }
+}
